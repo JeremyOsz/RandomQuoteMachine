@@ -1,0 +1,11 @@
+.float-middle{
+  position: relative;
+  margin-top: 10%;
+  height: fit-content;
+}
+.standard-padding{
+  padding: 2rem;
+}
+.long-button{
+      padding: 1em 10em 1em 10em !important;
+}
